@@ -1,0 +1,13 @@
+By now you should be able to author a test plan for a problem like this.
+
+Here is a template to use:
+
+https://docs.google.com/document/d/1YcXgqO7OyFlWA0xEMcOuKWi4y3WeoYfDMH-e8dwdXVY/edit
+
+Make a copy of that document and author a test plan.
+
+Possible way to use time in class - pair up with a partner.
+
+One person works on implementing a solution in code.
+
+The other person works on a test plan.
